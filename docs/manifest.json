@@ -1,22 +1,6 @@
 {
   "apps": [
     {
-      "package_name": "dev.user.hello",
-      "display_name": "Hello",
-      "description": "A minimal Hello World app to validate the pipeline.",
-      "icon_url": "",
-      "version_code": 1,
-      "version_name": "0.0.1",
-      "apk_url": "https://github.com/MatejGroombridge/hello-world-app/releases/download/v0.0.1/dev.user.hello-0.0.1.apk",
-      "apk_sha256": "b5bc8907fb3a95cdee873bbe1ab06a8dbb65d03bf33b9dc15390a27a84c812bd",
-      "apk_size_bytes": 6475644,
-      "min_sdk": 26,
-      "released_at": "2026-05-02T16:44:54Z",
-      "source_repo": "MatejGroombridge/hello-world-app",
-      "release_url": "https://github.com/MatejGroombridge/hello-world-app/releases/tag/v0.0.1",
-      "changelog": "## v0.0.1 \u2014 2026-05-02\n\nInitial release. Displays a Hello World screen to validate the end-to-end build and distribution pipeline."
-    },
-    {
       "package_name": "dev.matejgroombridge.store",
       "display_name": "Matej Store",
       "description": "Personal Android app store. Polls a JSON manifest, downloads + verifies signed APKs, and hands them to the system installer.",
@@ -30,7 +14,22 @@
       "source_url": "https://github.com/MatejGroombridge/personal-app-store-frontend",
       "category": "System",
       "changelog": "## v0.3.1 \u2014 2026-05-03\n\nUpdated \"v\" to \"Version\" across UI"
+    },
+    {
+      "package_name": "dev.user.hello",
+      "display_name": "Hello",
+      "description": "A minimal Hello World app to validate the pipeline.",
+      "icon_url": "",
+      "version_code": 3,
+      "version_name": "0.0.3",
+      "apk_url": "https://github.com/MatejGroombridge/hello-world-app/releases/download/v0.0.3/dev.user.hello-0.0.3.apk",
+      "apk_sha256": "fa6077cdd3942497e4c5dc4361b1d35039889011278eea7f51217e91205cf405",
+      "apk_size_bytes": 6475640,
+      "min_sdk": 26,
+      "released_at": "2026-05-03T04:19:04Z",
+      "source_repo": "MatejGroombridge/hello-world-app",
+      "release_url": "https://github.com/MatejGroombridge/hello-world-app/releases/tag/v0.0.3"
     }
   ],
-  "generated_at": "2026-05-03T04:03:08.053765Z"
+  "generated_at": "2026-05-03T04:19:07Z"
 }
