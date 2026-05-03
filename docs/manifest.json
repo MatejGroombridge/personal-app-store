@@ -4,16 +4,16 @@
       "package_name": "dev.matejgroombridge.store",
       "display_name": "Groom Hub",
       "description": "My personal Android app store. Polls a JSON manifest, downloads & verifies signed APKs and hands them to the system installer.",
-      "version_code": 7,
-      "version_name": "1.0.0",
-      "apk_url": "https://github.com/MatejGroombridge/personal-app-store-frontend/releases/download/v1.0.0/dev.matejgroombridge.store-1.0.0.apk",
-      "apk_sha256": "acda1256149f47af55aa1342db557c7c75556ac99107e233f0821a87bd3d5c7e",
+      "version_code": 8,
+      "version_name": "1.1.0",
+      "apk_url": "https://github.com/MatejGroombridge/personal-app-store-frontend/releases/download/v1.1.0/dev.matejgroombridge.store-1.1.0.apk",
+      "apk_sha256": "8787e6a387247e21253ec6f6e88c888d03d4b1b8b57e0a3523d285b630fd7544",
       "apk_size_bytes": 1905193,
       "min_sdk": 26,
-      "released_at": "2026-05-03T07:06:55.111970Z",
+      "released_at": "2026-05-03T12:53:50.683460Z",
       "source_url": "https://github.com/MatejGroombridge/personal-app-store-frontend",
       "category": "System",
-      "changelog": "## v1.0.0 \u2014 2026-05-03\n\nFirst major release. Complete UI and functionality"
+      "changelog": "## v1.1.0 \u2014 2026-05-03\n\nRemoved pull down to refresh"
     },
     {
       "package_name": "dev.matejgroombridge.habittracker",
@@ -46,5 +46,5 @@
       "release_url": "https://github.com/MatejGroombridge/hello-world-app/releases/tag/v0.0.3"
     }
   ],
-  "generated_at": "2026-05-03T12:49:40.696881Z"
+  "generated_at": "2026-05-03T12:53:50.683506Z"
 }
