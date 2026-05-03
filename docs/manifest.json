@@ -1,5 +1,4 @@
 {
-  "generated_at": "2026-05-02T16:44:54Z",
   "apps": [
     {
       "package_name": "dev.user.hello",
@@ -14,7 +13,24 @@
       "min_sdk": 26,
       "released_at": "2026-05-02T16:44:54Z",
       "source_repo": "MatejGroombridge/hello-world-app",
-      "release_url": "https://github.com/MatejGroombridge/hello-world-app/releases/tag/v0.0.1"
+      "release_url": "https://github.com/MatejGroombridge/hello-world-app/releases/tag/v0.0.1",
+      "changelog": "## v0.0.1 \u2014 2026-05-02\n\nInitial release. Displays a Hello World screen to validate the end-to-end build and distribution pipeline."
+    },
+    {
+      "package_name": "dev.matejgroombridge.store",
+      "display_name": "Matej Store",
+      "description": "Personal Android app store. Polls a JSON manifest, downloads + verifies signed APKs, and hands them to the system installer.",
+      "version_code": 3,
+      "version_name": "0.3.0",
+      "apk_url": "https://github.com/MatejGroombridge/personal-app-store-frontend/releases/download/v0.3.0/dev.matejgroombridge.store-0.3.0.apk",
+      "apk_sha256": "0a3a6a8d87297729955610b2eddd120cec9378a09597e90088d242822b85c1c6",
+      "apk_size_bytes": 1875929,
+      "min_sdk": 26,
+      "released_at": "2026-05-03T02:53:26.472617Z",
+      "source_url": "https://github.com/MatejGroombridge/personal-app-store-frontend",
+      "category": "System",
+      "changelog": "## v0.3.0 \u2014 2026-05-03\n\nAdded changeset + fixed manifest\n\n## v0.2.0 \u2014 2026-05-02\n\nInitial cleanup and removed mock manifest\n\n## v0.1.0 \u2014 2026-05-02\n\nInitial release. Polls the JSON manifest, downloads APKs and hands them to the system installer."
     }
-  ]
+  ],
+  "generated_at": "2026-05-03T02:53:26.472657Z"
 }
