@@ -19,17 +19,17 @@
       "package_name": "dev.matejgroombridge.store",
       "display_name": "Matej Store",
       "description": "Personal Android app store. Polls a JSON manifest, downloads + verifies signed APKs, and hands them to the system installer.",
-      "version_code": 5,
-      "version_name": "0.3.2",
-      "apk_url": "https://github.com/MatejGroombridge/personal-app-store-frontend/releases/download/v0.3.2/dev.matejgroombridge.store-0.3.2.apk",
-      "apk_sha256": "30dad9f5af3255bec3a7d891e4dcbc484e462cd4c4d1651878e926e988c9acba",
-      "apk_size_bytes": 1875929,
+      "version_code": 6,
+      "version_name": "0.3.3",
+      "apk_url": "https://github.com/MatejGroombridge/personal-app-store-frontend/releases/download/v0.3.3/dev.matejgroombridge.store-0.3.3.apk",
+      "apk_sha256": "707e80bc7a5b12cc6649028d56b54e4cc6cc56235405a89de64b8e81a0db8796",
+      "apk_size_bytes": 1888213,
       "min_sdk": 26,
-      "released_at": "2026-05-03T04:39:25.308816Z",
+      "released_at": "2026-05-03T04:51:19.315562Z",
       "source_url": "https://github.com/MatejGroombridge/personal-app-store-frontend",
       "category": "System",
-      "changelog": "## v0.3.2 \u2014 2026-05-03\n\nFix signing key mismatch\""
+      "changelog": "## v0.3.3 \u2014 2026-05-03\n\nFixed signing config"
     }
   ],
-  "generated_at": "2026-05-03T04:39:25.308859Z"
+  "generated_at": "2026-05-03T04:51:19.315606Z"
 }
