@@ -19,16 +19,16 @@
       "package_name": "dev.matejgroombridge.habittracker",
       "display_name": "Habit Tracker",
       "description": "Habit Tracker \u2014 part of the personal app suite.",
-      "version_code": 7,
-      "version_name": "1.0.1",
-      "apk_url": "https://github.com/MatejGroombridge/habit-tracker-app/releases/download/v1.0.1/dev.matejgroombridge.habittracker-1.0.1.apk",
-      "apk_sha256": "b61082e68acb2edea112405deec433b3ca6a99effa93f1b2e16601fbae00ab70",
-      "apk_size_bytes": 1498925,
+      "version_code": 8,
+      "version_name": "2.0.0",
+      "apk_url": "https://github.com/MatejGroombridge/habit-tracker-app/releases/download/v2.0.0/dev.matejgroombridge.habittracker-2.0.0.apk",
+      "apk_sha256": "48c3a7750635bbf7a60dad88f7013627ad5e38d14f11323ab4ad15f7df647a94",
+      "apk_size_bytes": 2298693,
       "min_sdk": 26,
-      "released_at": "2026-05-05T06:18:18.580044Z",
+      "released_at": "2026-05-05T12:13:41.744060Z",
       "source_url": "https://github.com/MatejGroombridge/habit-tracker-app",
       "category": "Personal",
-      "changelog": "## v1.0.1 \u2014 2026-05-05\n\nImplemented swipe to navigate between pages"
+      "changelog": "## v2.0.0 \u2014 2026-05-05\n\nMajor feature & UI updates + Habits widget\""
     },
     {
       "package_name": "dev.user.hello",
@@ -46,5 +46,5 @@
       "release_url": "https://github.com/MatejGroombridge/hello-world-app/releases/tag/v0.0.3"
     }
   ],
-  "generated_at": "2026-05-05T06:18:18.580081Z"
+  "generated_at": "2026-05-05T12:13:41.744102Z"
 }
