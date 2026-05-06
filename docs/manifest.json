@@ -19,16 +19,16 @@
       "package_name": "dev.matejgroombridge.habittracker",
       "display_name": "Habit Tracker",
       "description": "Habit Tracker \u2014 part of the personal app suite.",
-      "version_code": 9,
-      "version_name": "2.0.1",
-      "apk_url": "https://github.com/MatejGroombridge/habit-tracker-app/releases/download/v2.0.1/dev.matejgroombridge.habittracker-2.0.1.apk",
-      "apk_sha256": "e66edddf4180978223bfbf2a6b5ab28491875d389d637f3450d274f718094e8d",
+      "version_code": 10,
+      "version_name": "2.1.0",
+      "apk_url": "https://github.com/MatejGroombridge/habit-tracker-app/releases/download/v2.1.0/dev.matejgroombridge.habittracker-2.1.0.apk",
+      "apk_sha256": "8b250a78c19d58de49dbb300a46e9c8c09f05f8265bc6e71d5d789ea8c0173e9",
       "apk_size_bytes": 2315081,
       "min_sdk": 26,
-      "released_at": "2026-05-06T07:00:23.832283Z",
+      "released_at": "2026-05-06T12:20:57.304283Z",
       "source_url": "https://github.com/MatejGroombridge/habit-tracker-app",
       "category": "Personal",
-      "changelog": "## v2.0.1 \u2014 2026-05-06\n\nAdded feature toggles to settings"
+      "changelog": "## v2.1.0 \u2014 2026-05-06\n\nSettings cleanup + Zen mode"
     },
     {
       "package_name": "dev.user.hello",
@@ -46,5 +46,5 @@
       "release_url": "https://github.com/MatejGroombridge/hello-world-app/releases/tag/v0.0.3"
     }
   ],
-  "generated_at": "2026-05-06T07:00:23.832326Z"
+  "generated_at": "2026-05-06T12:20:57.304322Z"
 }
