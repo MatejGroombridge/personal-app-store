@@ -44,7 +44,22 @@
       "released_at": "2026-05-09T06:38:52Z",
       "source_repo": "MatejGroombridge/hello-world-app",
       "release_url": "https://github.com/MatejGroombridge/hello-world-app/releases/tag/v0.0.4"
+    },
+    {
+      "package_name": "dev.matejgroombridge.turntable",
+      "display_name": "turntable",
+      "description": "turntable \u2014 part of the personal app suite.",
+      "version_code": 2,
+      "version_name": "0.2.0",
+      "apk_url": "https://github.com/MatejGroombridge/turntable/releases/download/v0.2.0/dev.matejgroombridge.turntable-0.2.0.apk",
+      "apk_sha256": "59f60f16e1bf7c89b963d0c563a60122668c6808a42fa676d5f3d72a0b19b683",
+      "apk_size_bytes": 1460187,
+      "min_sdk": 26,
+      "released_at": "2026-05-09T09:35:11.314240Z",
+      "source_url": "https://github.com/MatejGroombridge/turntable",
+      "category": "Personal",
+      "changelog": "## v0.2.0 \u2014 2026-05-09\n\nWorking Spotify integration\n\nAll notable changes to turntable. Format roughly follows\n[Keep a Changelog](https://keepachangelog.com). The most recent release is at\nthe top. Each entry is consumed verbatim by the release pipeline and shown to\nusers on the app's detail screen in the Groom Hub."
     }
   ],
-  "generated_at": "2026-05-09T07:36:45.427881Z"
+  "generated_at": "2026-05-09T09:35:11.314283Z"
 }
