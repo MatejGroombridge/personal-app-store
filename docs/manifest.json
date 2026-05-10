@@ -49,17 +49,17 @@
       "package_name": "dev.matejgroombridge.turntable",
       "display_name": "turntable",
       "description": "turntable \u2014 part of the personal app suite.",
-      "version_code": 3,
-      "version_name": "0.3.0",
-      "apk_url": "https://github.com/MatejGroombridge/turntable/releases/download/v0.3.0/dev.matejgroombridge.turntable-0.3.0.apk",
-      "apk_sha256": "e72804c37c05159a5d13adfc78eb7a17b99bd4aa0f53f3ec76ff86358a6e06a9",
-      "apk_size_bytes": 1460187,
+      "version_code": 4,
+      "version_name": "1.0.0",
+      "apk_url": "https://github.com/MatejGroombridge/turntable/releases/download/v1.0.0/dev.matejgroombridge.turntable-1.0.0.apk",
+      "apk_sha256": "fee8ea93fa93802daffbced6eaae6a81cb5d790b0222c8ba273b724021646ec7",
+      "apk_size_bytes": 1632471,
       "min_sdk": 26,
-      "released_at": "2026-05-09T10:01:10.821981Z",
+      "released_at": "2026-05-10T11:46:56.608182Z",
       "source_url": "https://github.com/MatejGroombridge/turntable",
       "category": "Personal",
-      "changelog": "## v0.3.0 \u2014 2026-05-09\n\nUI improvements + Load more function"
+      "changelog": "## v1.0.0 \u2014 2026-05-10\n\nRandomisation, search, complete UI and functionality"
     }
   ],
-  "generated_at": "2026-05-09T10:01:10.822017Z"
+  "generated_at": "2026-05-10T11:46:56.608239Z"
 }
