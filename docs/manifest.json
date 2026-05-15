@@ -49,16 +49,16 @@
       "package_name": "dev.matejgroombridge.streaks",
       "display_name": "streaks",
       "description": "streaks \u2014 part of the personal app suite.",
-      "version_code": 3,
-      "version_name": "1.1.0",
-      "apk_url": "https://github.com/MatejGroombridge/streaks-app/releases/download/v1.1.0/dev.matejgroombridge.streaks-1.1.0.apk",
-      "apk_sha256": "d13fae6d116be7f6031f7583ef7164e8b5ef4ad2d992205dc7fcea1f8ad26bae",
-      "apk_size_bytes": 1318465,
+      "version_code": 4,
+      "version_name": "1.2.0",
+      "apk_url": "https://github.com/MatejGroombridge/streaks-app/releases/download/v1.2.0/dev.matejgroombridge.streaks-1.2.0.apk",
+      "apk_sha256": "3ac18fdf964717996785a53bf5dbbeab21eadef99a8465c69ff9416f1aad585c",
+      "apk_size_bytes": 1302081,
       "min_sdk": 26,
-      "released_at": "2026-05-11T07:04:17.555365Z",
+      "released_at": "2026-05-15T06:32:51.318370Z",
       "source_url": "https://github.com/MatejGroombridge/streaks-app",
       "category": "Personal",
-      "changelog": "## v1.1.0 \u2014 2026-05-11\n\nHome page UI refactor"
+      "changelog": "## v1.2.0 \u2014 2026-05-15\n\nUpdated Home UI - hideable weekly view"
     },
     {
       "package_name": "dev.matejgroombridge.turntable",
@@ -76,5 +76,5 @@
       "changelog": "## v1.0.0 \u2014 2026-05-10\n\nRandomisation, search, complete UI and functionality"
     }
   ],
-  "generated_at": "2026-05-11T07:04:17.555399Z"
+  "generated_at": "2026-05-15T06:32:51.318407Z"
 }
