@@ -76,6 +76,21 @@
       "changelog": "## v1.2.0 \u2014 2026-05-15\n\nUpdated Home UI - hideable weekly view"
     },
     {
+      "package_name": "dev.matejgroombridge.triolingo",
+      "display_name": "Triolingo",
+      "description": "Triolingo \u2014 part of the personal app suite.",
+      "version_code": 15,
+      "version_name": "1.1.0",
+      "apk_url": "https://github.com/MatejGroombridge/language-learner-app/releases/download/v1.1.0/dev.matejgroombridge.triolingo-1.1.0.apk",
+      "apk_sha256": "3fc00ab2e4a44a199044c0591ae862b1c1904fe71f021d938f5b201edd074929",
+      "apk_size_bytes": 5083634,
+      "min_sdk": 26,
+      "released_at": "2026-07-10T02:14:31.221843Z",
+      "source_url": "https://github.com/MatejGroombridge/language-learner-app",
+      "category": "Personal",
+      "changelog": "## v1.1.0 \u2014 2026-07-10\n\nRenamed to Triolingo"
+    },
+    {
       "package_name": "dev.matejgroombridge.turntable",
       "display_name": "turntable",
       "description": "turntable \u2014 part of the personal app suite.",
@@ -91,5 +106,5 @@
       "changelog": "## v1.0.0 \u2014 2026-05-10\n\nRandomisation, search, complete UI and functionality"
     }
   ],
-  "generated_at": "2026-07-09T07:33:24.047137Z"
+  "generated_at": "2026-07-10T02:14:31.221880Z"
 }
