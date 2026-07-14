@@ -31,6 +31,21 @@
       "changelog": "## v1.0.12 \u2014 2026-07-09\n\nuypdated alias"
     },
     {
+      "package_name": "dev.matejgroombridge.bonsai",
+      "display_name": "Bonsai",
+      "description": "A calming pixel-art bonsai garden \u2014 snip, shape, and grow.",
+      "version_code": 2,
+      "version_name": "0.2.0",
+      "apk_url": "https://github.com/MatejGroombridge/bonsai-mobile-game/releases/download/v0.2.0/dev.matejgroombridge.bonsai-0.2.0.apk",
+      "apk_sha256": "6ec6315a800219402a6d905344d91cbf76470adf1601855c8edff2287a9a6271",
+      "apk_size_bytes": 1367401,
+      "min_sdk": 26,
+      "released_at": "2026-07-14T00:41:57.124431Z",
+      "source_url": "https://github.com/MatejGroombridge/bonsai-mobile-game",
+      "category": "Game",
+      "changelog": "## v0.2.0 \u2014 2026-07-14\n\nFirst playable release \u2014 grow, snip, water and preserve your pixel bonsai\n\nAll notable changes to Bonsai. Format roughly follows\n[Keep a Changelog](https://keepachangelog.com). The most recent release is at\nthe top. Each entry is consumed verbatim by the release pipeline and shown to\nusers on the app's detail screen in the Groom Hub."
+    },
+    {
       "package_name": "dev.matejgroombridge.habittracker",
       "display_name": "Habit Tracker",
       "description": "Habit Tracker \u2014 part of the personal app suite.",
@@ -106,5 +121,5 @@
       "changelog": "## v1.0.0 \u2014 2026-05-10\n\nRandomisation, search, complete UI and functionality"
     }
   ],
-  "generated_at": "2026-07-10T02:14:31.221880Z"
+  "generated_at": "2026-07-14T00:41:57.124480Z"
 }
