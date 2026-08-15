@@ -79,16 +79,16 @@
       "package_name": "dev.matejgroombridge.milestones",
       "display_name": "Milestones",
       "description": "Track personal bests and beat them \u2014 part of the personal app suite.",
-      "version_code": 1,
-      "version_name": "0.1.0",
-      "apk_url": "https://github.com/MatejGroombridge/milestones-app/releases/download/v0.1.0/dev.matejgroombridge.milestones-0.1.0.apk",
-      "apk_sha256": "3b93edae0ce3f7d27b172f0f809681fabef0decf1094409fa4fdb5ece7c199b7",
-      "apk_size_bytes": 1550757,
+      "version_code": 2,
+      "version_name": "0.2.0",
+      "apk_url": "https://github.com/MatejGroombridge/milestones-app/releases/download/v0.2.0/dev.matejgroombridge.milestones-0.2.0.apk",
+      "apk_sha256": "2ef0f67219f5ec4d45ec00efd26f72d74be539139b9a341bd0ffa424f2708994",
+      "apk_size_bytes": 1567141,
       "min_sdk": 26,
-      "released_at": "2026-08-08T14:25:19.843381Z",
+      "released_at": "2026-08-15T08:51:19.226993Z",
       "source_url": "https://github.com/MatejGroombridge/milestones-app",
       "category": "Personal",
-      "changelog": "## v0.1.0 \u2014 2026-08-09\n\nInitial release \u2014 track personal bests and beat them\n\nAll notable changes to Milestones. Format roughly follows\n[Keep a Changelog](https://keepachangelog.com). The most recent release is at\nthe top. Each entry is consumed verbatim by the release pipeline and shown to\nusers on the app's detail screen in the Groom Hub."
+      "changelog": "## v0.2.0 \u2014 2026-08-15\n\nSeparate yearly goals from lifetime records, and keep targets going\n\n<!-- `bin/changeset` inserts new entries at the first blank line after the H1,\n     so this blurb deliberately runs on directly under the heading with no\n     blank line above it. That keeps it out of the \"most recent entry\" slice\n     that release.yml extracts and publishes to the manifest. -->"
     },
     {
       "package_name": "dev.matejgroombridge.streaks",
@@ -136,5 +136,5 @@
       "changelog": "## v1.0.0 \u2014 2026-05-10\n\nRandomisation, search, complete UI and functionality"
     }
   ],
-  "generated_at": "2026-08-08T14:25:19.843425Z"
+  "generated_at": "2026-08-15T08:51:19.227035Z"
 }
