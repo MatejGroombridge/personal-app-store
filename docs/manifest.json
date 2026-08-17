@@ -91,6 +91,21 @@
       "changelog": "## v0.2.0 \u2014 2026-08-15\n\nSeparate yearly goals from lifetime records, and keep targets going\n\n<!-- `bin/changeset` inserts new entries at the first blank line after the H1,\n     so this blurb deliberately runs on directly under the heading with no\n     blank line above it. That keeps it out of the \"most recent entry\" slice\n     that release.yml extracts and publishes to the manifest. -->"
     },
     {
+      "package_name": "dev.matejgroombridge.readinglist",
+      "display_name": "Reading List",
+      "description": "Books you want to read, sorted into genres automatically.",
+      "version_code": 2,
+      "version_name": "0.1.1",
+      "apk_url": "https://github.com/MatejGroombridge/reading-list-app/releases/download/v0.1.1/dev.matejgroombridge.readinglist-0.1.1.apk",
+      "apk_sha256": "dedb7f468d91ad04c09f119579ecbb98853a6dfdc44c741df37fcd1b8ffbb641",
+      "apk_size_bytes": 1968954,
+      "min_sdk": 26,
+      "released_at": "2026-08-17T11:37:34.081372Z",
+      "source_url": "https://github.com/MatejGroombridge/reading-list-app",
+      "category": "Personal",
+      "changelog": "## v0.1.1 \u2014 2026-08-17\n\nInitial release \u2014 book search, automatic genre sorting, Up Next queue, and bulk list import\n\nAll notable changes to Reading List. Format roughly follows\n[Keep a Changelog](https://keepachangelog.com). The most recent release is at\nthe top. Each entry is consumed verbatim by the release pipeline and shown to\nusers on the app's detail screen in the Groom Hub."
+    },
+    {
       "package_name": "dev.matejgroombridge.streaks",
       "display_name": "streaks",
       "description": "streaks \u2014 part of the personal app suite.",
@@ -136,5 +151,5 @@
       "changelog": "## v1.0.0 \u2014 2026-05-10\n\nRandomisation, search, complete UI and functionality"
     }
   ],
-  "generated_at": "2026-08-15T08:51:19.227035Z"
+  "generated_at": "2026-08-17T11:37:34.081423Z"
 }
