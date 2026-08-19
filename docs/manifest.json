@@ -91,6 +91,21 @@
       "changelog": "## v0.2.0 \u2014 2026-08-15\n\nSeparate yearly goals from lifetime records, and keep targets going\n\n<!-- `bin/changeset` inserts new entries at the first blank line after the H1,\n     so this blurb deliberately runs on directly under the heading with no\n     blank line above it. That keeps it out of the \"most recent entry\" slice\n     that release.yml extracts and publishes to the manifest. -->"
     },
     {
+      "package_name": "dev.matejgroombridge.pimemo",
+      "display_name": "Pi Memo",
+      "description": "Learn 1000 digits of \u03c0, ten at a time.",
+      "version_code": 2,
+      "version_name": "0.2.0",
+      "apk_url": "https://github.com/MatejGroombridge/pi-memo/releases/download/v0.2.0/dev.matejgroombridge.pimemo-0.2.0.apk",
+      "apk_sha256": "99d91abf799fc9046a908e05bf1b2c3e16c738c2f1d970808571c51b7907f0b1",
+      "apk_size_bytes": 1345801,
+      "min_sdk": 26,
+      "released_at": "2026-08-19T13:49:11.923300Z",
+      "source_url": "https://github.com/MatejGroombridge/pi-memo",
+      "category": "Learning",
+      "changelog": "## v0.2.0 \u2014 2026-08-19\n\nFirst release - learn 1000 digits of pi, ten at a time"
+    },
+    {
       "package_name": "dev.matejgroombridge.readinglist",
       "display_name": "Reading List",
       "description": "Books you want to read, sorted into genres automatically.",
@@ -151,5 +166,5 @@
       "changelog": "## v1.0.0 \u2014 2026-05-10\n\nRandomisation, search, complete UI and functionality"
     }
   ],
-  "generated_at": "2026-08-17T11:59:54.434822Z"
+  "generated_at": "2026-08-19T13:49:11.923343Z"
 }
