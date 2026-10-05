@@ -4,16 +4,16 @@
       "package_name": "dev.matejgroombridge.store",
       "display_name": "App Store",
       "description": "My personal Android app store. Polls a JSON manifest, downloads & verifies signed APKs and hands them to the system installer.",
-      "version_code": 11,
-      "version_name": "1.3.0",
-      "apk_url": "https://github.com/MatejGroombridge/personal-app-store-frontend/releases/download/v1.3.0/dev.matejgroombridge.store-1.3.0.apk",
-      "apk_sha256": "f6611801679e001c5121c3894038a638583d163bb5c5174486bfad1860c8c5d8",
+      "version_code": 12,
+      "version_name": "1.3.1",
+      "apk_url": "https://github.com/MatejGroombridge/personal-app-store-frontend/releases/download/v1.3.1/dev.matejgroombridge.store-1.3.1.apk",
+      "apk_sha256": "f6a46d61229cd290f26a9159455c89ebc8ea72133b7527ef1ec099b693aff751",
       "apk_size_bytes": 1924929,
       "min_sdk": 26,
-      "released_at": "2026-10-05T10:52:07.017635Z",
+      "released_at": "2026-10-05T11:02:35.581702Z",
       "source_url": "https://github.com/MatejGroombridge/personal-app-store-frontend",
       "category": "System",
-      "changelog": "## v1.3.0 \u2014 2026-10-05\n\nAdded abandoned tag and fixed uninstall button"
+      "changelog": "## v1.3.1 \u2014 2026-10-05\n\nGreyed out Install button for abandoned apps in the list"
     },
     {
       "package_name": "dev.matejgroombridge.argot",
@@ -166,5 +166,5 @@
       "changelog": "## v1.0.0 \u2014 2026-05-10\n\nRandomisation, search, complete UI and functionality"
     }
   ],
-  "generated_at": "2026-10-05T10:52:07.017669Z"
+  "generated_at": "2026-10-05T11:02:35.581757Z"
 }
