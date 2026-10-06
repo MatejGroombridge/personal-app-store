@@ -49,16 +49,16 @@
       "package_name": "dev.matejgroombridge.habittracker",
       "display_name": "Habit Tracker",
       "description": "Habit Tracker \u2014 part of the personal app suite.",
-      "version_code": 13,
-      "version_name": "2.3.0",
-      "apk_url": "https://github.com/MatejGroombridge/habit-tracker-app/releases/download/v2.3.0/dev.matejgroombridge.habittracker-2.3.0.apk",
-      "apk_sha256": "8d95fb3869d50e378b78995e07b991dd946f54b09ae1d0cc4bbe3ce219043df3",
-      "apk_size_bytes": 2315081,
+      "version_code": 14,
+      "version_name": "2.4.0",
+      "apk_url": "https://github.com/MatejGroombridge/habit-tracker-app/releases/download/v2.4.0/dev.matejgroombridge.habittracker-2.4.0.apk",
+      "apk_sha256": "863fac02248232ddea1336bc9012088c2ead0410ca8d3c4d7d3e4fb430e5b9d1",
+      "apk_size_bytes": 2364269,
       "min_sdk": 26,
-      "released_at": "2026-09-27T07:46:37.581554Z",
+      "released_at": "2026-10-06T05:51:38.099573Z",
       "source_url": "https://github.com/MatejGroombridge/habit-tracker-app",
       "category": "Personal",
-      "changelog": "## v2.3.0 \u2014 2026-09-15\n\nBackfill history for habits you started tracking later than the rest"
+      "changelog": "## v2.4.0 \u2014 2026-10-06\n\nStats tab with perfect days, insights and a monthly recap"
     },
     {
       "package_name": "dev.user.hello",
@@ -166,5 +166,5 @@
       "changelog": "## v1.0.0 \u2014 2026-05-10\n\nRandomisation, search, complete UI and functionality"
     }
   ],
-  "generated_at": "2026-10-05T12:25:28.455554Z"
+  "generated_at": "2026-10-06T05:51:38.099608Z"
 }
