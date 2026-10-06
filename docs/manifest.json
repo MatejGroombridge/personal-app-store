@@ -169,17 +169,17 @@
       "package_name": "dev.matejgroombridge.voquab",
       "display_name": "Voquab",
       "description": "Low-effort vocabulary builder \u2014 a weekly word to use in conversation, plus a few cards a day.",
-      "version_code": 2,
-      "version_name": "0.1.1",
-      "apk_url": "https://github.com/MatejGroombridge/vocab-app/releases/download/v0.1.1/dev.matejgroombridge.voquab-0.1.1.apk",
-      "apk_sha256": "2b0499d22643a1dbfb4ac49a55efdf5361fc346c6a5b9148eda627e62aa36775",
-      "apk_size_bytes": 1455716,
+      "version_code": 3,
+      "version_name": "0.2.0",
+      "apk_url": "https://github.com/MatejGroombridge/vocab-app/releases/download/v0.2.0/dev.matejgroombridge.voquab-0.2.0.apk",
+      "apk_sha256": "8222fcd228de34435d98ad42e386a20d179e13dc05ec49cfabba10cbfd1202b6",
+      "apk_size_bytes": 1515612,
       "min_sdk": 26,
-      "released_at": "2026-10-06T05:56:05.804726Z",
+      "released_at": "2026-10-06T11:45:18.486433Z",
       "source_url": "https://github.com/MatejGroombridge/vocab-app",
       "category": "Personal",
-      "changelog": "## v0.1.1 \u2014 2026-10-06\n\nWord library: browse and search 209 Kindle words with definitions, examples, origins and pronunciation\n\nAll notable changes to Voquab. Format roughly follows\n[Keep a Changelog](https://keepachangelog.com). The most recent release is at\nthe top. Each entry is consumed verbatim by the release pipeline and shown to\nusers on the app's detail screen in the Groom Hub."
+      "changelog": "## v0.2.0 \u2014 2026-10-06\n\nWeekly word: one word a week to use in conversation, with streak, one-tap logging from notifications, and an Aussie voice"
     }
   ],
-  "generated_at": "2026-10-06T06:04:50.822212Z"
+  "generated_at": "2026-10-06T11:45:18.486463Z"
 }
