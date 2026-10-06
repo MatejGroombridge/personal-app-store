@@ -124,16 +124,16 @@
       "package_name": "dev.matejgroombridge.streaks",
       "display_name": "streaks",
       "description": "streaks \u2014 part of the personal app suite.",
-      "version_code": 5,
-      "version_name": "2.0.0",
-      "apk_url": "https://github.com/MatejGroombridge/streaks-app/releases/download/v2.0.0/dev.matejgroombridge.streaks-2.0.0.apk",
-      "apk_sha256": "bbc155b575f764d26dbeb1e78d50e711b907baa53572a531130555939b124c91",
+      "version_code": 6,
+      "version_name": "2.1.0",
+      "apk_url": "https://github.com/MatejGroombridge/streaks-app/releases/download/v2.1.0/dev.matejgroombridge.streaks-2.1.0.apk",
+      "apk_sha256": "7b5359e86719b90b6a6e9499203a3615bc0c5a51738a08ded672f39e8fbd9132",
       "apk_size_bytes": 1318113,
       "min_sdk": 26,
-      "released_at": "2026-10-05T12:25:28.455522Z",
+      "released_at": "2026-10-06T05:57:41.473843Z",
       "source_url": "https://github.com/MatejGroombridge/streaks-app",
       "category": "Personal",
-      "changelog": "## v2.0.0 \u2014 2026-10-05\n\nCustom habits and a secondary habit"
+      "changelog": "## v2.1.0 \u2014 2026-10-06\n\nPer-habit stats toggle and back navigation from settings"
     },
     {
       "package_name": "dev.matejgroombridge.triolingo",
@@ -181,5 +181,5 @@
       "changelog": "## v0.1.1 \u2014 2026-10-06\n\nWord library: browse and search 209 Kindle words with definitions, examples, origins and pronunciation\n\nAll notable changes to Voquab. Format roughly follows\n[Keep a Changelog](https://keepachangelog.com). The most recent release is at\nthe top. Each entry is consumed verbatim by the release pipeline and shown to\nusers on the app's detail screen in the Groom Hub."
     }
   ],
-  "generated_at": "2026-10-06T05:56:05.804758Z"
+  "generated_at": "2026-10-06T05:57:41.473892Z"
 }
