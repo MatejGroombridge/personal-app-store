@@ -108,17 +108,17 @@
     {
       "package_name": "dev.matejgroombridge.readinglist",
       "display_name": "Reading List",
-      "description": "Books you want to read, sorted into genres automatically.",
-      "version_code": 3,
-      "version_name": "0.1.2",
-      "apk_url": "https://github.com/MatejGroombridge/reading-list-app/releases/download/v0.1.2/dev.matejgroombridge.readinglist-0.1.2.apk",
-      "apk_sha256": "e9aa1c05a884aeb19181b4f9293c79b573508efce7ff0e2359dcb3909481aaff",
-      "apk_size_bytes": 1968954,
+      "description": "Capture book recommendations \u2014 who suggested them and why \u2014 and track what you read.",
+      "version_code": 4,
+      "version_name": "0.2.0",
+      "apk_url": "https://github.com/MatejGroombridge/reading-list-app/releases/download/v0.2.0/dev.matejgroombridge.readinglist-0.2.0.apk",
+      "apk_sha256": "4e91139b487f83eee2302521f01f00955430ba941aa2a0593c8ac535ff6505e4",
+      "apk_size_bytes": 2921320,
       "min_sdk": 26,
-      "released_at": "2026-08-17T11:59:54.434786Z",
+      "released_at": "2026-10-06T06:04:50.822175Z",
       "source_url": "https://github.com/MatejGroombridge/reading-list-app",
       "category": "Personal",
-      "changelog": "## v0.1.2 \u2014 2026-08-17\n\nRetry transient Open Library outages so search stops failing on a single bad request"
+      "changelog": "## v0.2.0 \u2014 2026-10-06\n\nRebuilt from scratch \u2014 capture who recommended each book and why, add from anywhere, and track your reading"
     },
     {
       "package_name": "dev.matejgroombridge.streaks",
@@ -181,5 +181,5 @@
       "changelog": "## v0.1.1 \u2014 2026-10-06\n\nWord library: browse and search 209 Kindle words with definitions, examples, origins and pronunciation\n\nAll notable changes to Voquab. Format roughly follows\n[Keep a Changelog](https://keepachangelog.com). The most recent release is at\nthe top. Each entry is consumed verbatim by the release pipeline and shown to\nusers on the app's detail screen in the Groom Hub."
     }
   ],
-  "generated_at": "2026-10-06T05:57:41.473892Z"
+  "generated_at": "2026-10-06T06:04:50.822212Z"
 }
