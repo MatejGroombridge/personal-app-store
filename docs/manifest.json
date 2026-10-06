@@ -169,17 +169,17 @@
       "package_name": "dev.matejgroombridge.voquab",
       "display_name": "Voquab",
       "description": "Low-effort vocabulary builder \u2014 a weekly word to use in conversation, plus a few cards a day.",
-      "version_code": 3,
-      "version_name": "0.2.0",
-      "apk_url": "https://github.com/MatejGroombridge/vocab-app/releases/download/v0.2.0/dev.matejgroombridge.voquab-0.2.0.apk",
-      "apk_sha256": "8222fcd228de34435d98ad42e386a20d179e13dc05ec49cfabba10cbfd1202b6",
-      "apk_size_bytes": 1515612,
+      "version_code": 4,
+      "version_name": "0.3.0",
+      "apk_url": "https://github.com/MatejGroombridge/vocab-app/releases/download/v0.3.0/dev.matejgroombridge.voquab-0.3.0.apk",
+      "apk_sha256": "601c9083bcc430a9f01df19697adde27c489d0b2bbb687b3e823aba943a689a2",
+      "apk_size_bytes": 2317941,
       "min_sdk": 26,
-      "released_at": "2026-10-06T11:45:18.486433Z",
+      "released_at": "2026-10-06T12:26:48.699230Z",
       "source_url": "https://github.com/MatejGroombridge/vocab-app",
       "category": "Personal",
-      "changelog": "## v0.2.0 \u2014 2026-10-06\n\nWeekly word: one word a week to use in conversation, with streak, one-tap logging from notifications, and an Aussie voice"
+      "changelog": "## v0.3.0 \u2014 2026-10-06\n\nDaily cards, notification quizzes, home-screen widgets, passive mode, and Add to Voquab from any app"
     }
   ],
-  "generated_at": "2026-10-06T12:26:08.437386Z"
+  "generated_at": "2026-10-06T12:26:48.699255Z"
 }
