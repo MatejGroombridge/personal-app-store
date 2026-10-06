@@ -109,16 +109,16 @@
       "package_name": "dev.matejgroombridge.readinglist",
       "display_name": "Reading List",
       "description": "Capture book recommendations \u2014 who suggested them and why \u2014 and track what you read.",
-      "version_code": 5,
-      "version_name": "0.3.0",
-      "apk_url": "https://github.com/MatejGroombridge/reading-list-app/releases/download/v0.3.0/dev.matejgroombridge.readinglist-0.3.0.apk",
-      "apk_sha256": "96ec86a1bdc966976b4d345ba05b4139fe65d4b9a151c3c448d7b6abf301fa0c",
-      "apk_size_bytes": 2921320,
+      "version_code": 6,
+      "version_name": "1.0.0",
+      "apk_url": "https://github.com/MatejGroombridge/reading-list-app/releases/download/v1.0.0/dev.matejgroombridge.readinglist-1.0.0.apk",
+      "apk_sha256": "b2b17aca02f598c87d552b302410a1d8cfedbc1fa8ae0625e609501923c699e4",
+      "apk_size_bytes": 2904936,
       "min_sdk": 26,
-      "released_at": "2026-10-06T12:26:08.437354Z",
+      "released_at": "2026-10-06T12:53:57.846570Z",
       "source_url": "https://github.com/MatejGroombridge/reading-list-app",
       "category": "Personal",
-      "changelog": "## v0.3.0 \u2014 2026-10-06\n\nRank your list with This or That duels, a simpler full-screen add page, and Now / Interested / Someday"
+      "changelog": "## v1.0.0 \u2014 2026-10-06\n\n1.0 \u2014 rank your list with This or That, book descriptions, and a simpler, cleaner app"
     },
     {
       "package_name": "dev.matejgroombridge.streaks",
@@ -181,5 +181,5 @@
       "changelog": "## v0.3.0 \u2014 2026-10-06\n\nDaily cards, notification quizzes, home-screen widgets, passive mode, and Add to Voquab from any app"
     }
   ],
-  "generated_at": "2026-10-06T12:26:48.699255Z"
+  "generated_at": "2026-10-06T12:53:57.846614Z"
 }
